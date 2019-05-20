@@ -30,7 +30,6 @@ use Config;
 #=============================================================================================
 
 # By @Kouback_TR_
-# Modified by: fer0z
 # koubacktr@gmail.com
 # http://www.koubacktr.wordpress.com/
 # http://www.twitter.com/Kouback_Tr_
